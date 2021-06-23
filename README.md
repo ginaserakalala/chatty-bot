@@ -1,5 +1,5 @@
 # chatty-bot
-A real time chat app called chatty built with react and firebase
+A real time chat app built with react and firebase
 
 
 Requirements
